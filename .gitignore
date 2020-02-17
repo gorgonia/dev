@@ -1,0 +1,5 @@
+infrastructure/aws/gpu/terraform.tfstate
+infrastructure/aws/gpu/terraform.tfstate.backup
+infrastructure/aws/gpu/terraform.tfvars
+infrastructure/aws/gpu/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.49.0_x4
+infrastructure/aws/gpu/.terraform/plugins/darwin_amd64/lock.json
