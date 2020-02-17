@@ -1,4 +1,4 @@
-This directory contains a [`terraform`](https://www.terraform.io/) stack that kickstarts an AWS instance with GPU and the deep-learning AMI.
+This directory contains a [`terraform`](https://www.terraform.io/) stack that kickstarts an AWS instance with GPU (by default [g3s.xlarge](https://aws.amazon.com/ec2/instance-types/g3/)) and the [deep-learning AMI](https://aws.amazon.com/marketplace/pp/B07Y43P7X5?qid=1581968912318&sr=0-2&ref_=srh_res_product_title).
 
 To use this, you need an AWS account and some credentials.
 
