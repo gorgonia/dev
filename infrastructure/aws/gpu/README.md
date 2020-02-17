@@ -39,7 +39,10 @@ ssh_authorized_ip = "0.0.0.0/0" // Don't do that !
 `terraform apply` creates a machine and display its IP address on stdout.
 You can connect to the machine by `ssh` with the user `ubuntu` .
 
-
 ### Destroying the machine
 
 `terraform destroy` destroys the machine. **All data are lost**. Billing is stopped.
+
+### Finding the IP
+
+`terraform output` is your friend. It will display the public IP of the machine.
